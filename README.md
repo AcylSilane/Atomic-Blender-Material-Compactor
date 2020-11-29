@@ -2,7 +2,7 @@
 (C) 2020 James Dean
 
 ## What is this?
-Atomic blender creates a lot of extra materials when importing molecules. This saves time by fixing the names for you.
+Atomic blender creates a lot of extra materials when importing molecules. This saves time by fixing the materials for you.
 
 ## Why should I use this?
 Atomic Blender adds in a bunch of extra element materials every time a new molecule is imported.
