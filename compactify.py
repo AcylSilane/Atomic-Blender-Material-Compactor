@@ -10,7 +10,7 @@ To fix the problem, this script finds the 'ball' objects created by Atomic Blend
 collapses their materials down into a single one. It's saved me probably dozens of hours of
 tedium in changing material names.
 
-In effect, all your "Element", "Element.001", ..., "Element.ubscenely_high_number_here"
+In effect, all your "Element", "Element.001", ..., "Element.obscenely_high_number_here"
 materials all get swapped to just "Element"
 
 Make sure you understand this code before running it. It also goes without saying that you
