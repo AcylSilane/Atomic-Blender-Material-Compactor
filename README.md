@@ -1,4 +1,4 @@
-# Atomic-Blender-Material-Compactor
+# Atomic Blender Material Compactor
 (C) 2020 James Dean
 
 ## What is this?
