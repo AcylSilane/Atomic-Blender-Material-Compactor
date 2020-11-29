@@ -17,7 +17,7 @@ Make sure you understand this code before running it. It also goes without sayin
 should *probably* back up your blender project when you run this, in case your materials
 get jumbled up.
 
-That being said, this has a high chance of screwing up your object materials if:
+That being said, this has a high chance of garbling up your object materials if:
     1) you've already got other materials that share names with elements in your moleules
        (e.g. you've already got a material named "Gold" that you're not using for molecules)
     2) you've already got other objects with "ball" or "Stick" in their name that weren't
